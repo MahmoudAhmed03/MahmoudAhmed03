@@ -22,37 +22,24 @@ I have worked on projects that served thousands of users, built scalable applica
 
 ## 🔧 My Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181717?logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-181717?logo=openjdk&logoColor=ED8B00)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-181717?logo=microsoftsqlserver&logoColor=CC2927)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?logo=postgresql&logoColor=4169E1)
+![Oracle](https://img.shields.io/badge/Oracle-181717?logo=oracle&logoColor=F80000)
+![Azure](https://img.shields.io/badge/Azure-181717?logo=microsoftazure&logoColor=0078D4)
+![Jupyter](https://img.shields.io/badge/Jupyter-181717?logo=jupyter&logoColor=F37626)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-181717?logo=scrapy&logoColor=60A839)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-181717?logo=snowflake&logoColor=29B5E8)
+![ETL](https://img.shields.io/badge/ETL-181717?logo=apacheairflow&logoColor=017CEE)
+![ML](https://img.shields.io/badge/ML-181717?logo=pytorch&logoColor=EE4C2C)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-181717?logo=opencv&logoColor=5C3EE8)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
-
-## 🎯 LeetCode Heatmap
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmed03&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 
-## 🔗 Connect with Me
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousefdergham.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefdergham)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YousefMohamed01)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yousefdergham)
-
-</div>
